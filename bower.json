@@ -1,0 +1,21 @@
+{
+  "name": "sofa-last-viewed-products",
+  "version": "0.1.0",
+  "homepage": "http://www.projekteins.biz",
+  "authors": [
+    "Anja Dehn <anja.dehn@projekteins.biz>"
+  ],
+  "dependencies": {
+    "sofa-core": "~0.13.1"
+  },
+  "description": "Sofa Web SDK component. Provides methods to collect and display the last clicked products.",
+  "main": "dist/sofa.lastViewedProducts.js",
+  "keywords": [
+    "sofa",
+    "sofa.io",
+    "web",
+    "sdk",
+    "core"
+  ],
+  "license": "GPL"
+}
